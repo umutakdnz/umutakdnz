@@ -8,13 +8,8 @@
 - **Programlama Dilleri:** C#, Java, SQL  
 - **Web Teknolojileri:** ASP.NET Core MVC, HTML, CSS  
 - **Veritabanı:** MySQL, MS SQL Server  
-- **Araçlar:** Git, Visual Studio, IntelliJ IDEA, VS Code
-
-## 📈 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutakdnz&show_icons=true&theme=tokyonight)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutakdnz&layout=compact&theme=tokyonight) 
-
-## 🛠️ Kullandığım Teknolojiler
-
+- **Araçlar:** Git, Visual Studio, VS Code, IntelliJ IDEA
+- 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
