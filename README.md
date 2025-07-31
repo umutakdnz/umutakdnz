@@ -9,7 +9,8 @@
 - **Web Teknolojileri:** ASP.NET Core MVC, HTML, CSS  
 - **Veritabanı:** MySQL, MS SQL Server  
 - **Araçlar:** Git, Visual Studio, VS Code, IntelliJ IDEA
-- 
+
+##
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
