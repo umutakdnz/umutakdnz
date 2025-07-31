@@ -13,6 +13,8 @@
 ## 📈 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutakdnz&show_icons=true&theme=tokyonight)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutakdnz&layout=compact&theme=tokyonight) 
 
+## 🛠️ Kullandığım Teknolojiler
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -21,7 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="MS SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
 </p>
