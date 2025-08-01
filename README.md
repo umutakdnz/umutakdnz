@@ -1,14 +1,14 @@
-# 👋 Merhaba, ben Umut Akdeniz
+# 👋 Hi, I'm Umut Akdeniz
 
-🎓 Bursa Uludağ Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum.  
-💻 Yazılım geliştirme, web tasarım ve veri analizi alanlarında kendimi geliştirmeye devam ediyorum.  
-🌱 Özellikle **C#**, **ASP.NET Core** ve **SQL** üzerinde yoğunlaşıyorum.  
+🎓 I graduated from Bursa Uludağ University, Department of Computer Programming.  
+💻 I am continuously improving myself in software development, web design, and data analysis.  
+🌱 I mainly focus on **C#**, **ASP.NET Core**, and **SQL**.  
 
-## 🚀 Teknolojiler & Beceriler
-- **Programlama Dilleri:** C#, Java, SQL  
-- **Web Teknolojileri:** ASP.NET Core MVC, HTML, CSS  
-- **Veritabanı:** MySQL, MS SQL Server  
-- **Araçlar:** Git, Visual Studio, VS Code, IntelliJ IDEA
+## 🚀 Skills & Technologies
+- **Programming Languages:** C#, Java, SQL  
+- **Web Technologies:** ASP.NET Core MVC, HTML, CSS  
+- **Databases:** MySQL, MS SQL Server  
+- **Tools:** Git, Visual Studio, VS Code, IntelliJ IDEA  
 
 ##
 <p align="center">
